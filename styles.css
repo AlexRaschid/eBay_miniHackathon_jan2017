@@ -1,0 +1,28 @@
+/*Body and Row Styles*/
+
+body{
+    background-color: yellow;
+    
+}
+
+#pageHeader{
+    text-align: center;
+    
+    background-color: green;
+    
+}
+
+#inputArea{
+    background-color: red;
+    
+    
+}
+
+#apiInfoDump{
+    background-color: blue;
+    
+}
+
+#userInputButton{
+    margin-bottom: 20px;
+}
